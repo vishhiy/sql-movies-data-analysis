@@ -1,1 +1,7 @@
+movie_id,budget,revenue,unit,currency
+101,1.00,12.50,Billions,INR
+102,200.00,954.80,Millions,USD
+103,165.00,644.80,Millions,USD
+104,25.00,73.30,Millions,USD
+105,400.00,2000.00,Millions,INR
 
