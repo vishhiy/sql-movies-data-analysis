@@ -1,6 +1,6 @@
 # 🎬 SQL Movies Data Analysis Project
 
-## 📋 Overview
+## 📋 Project Overview
 This project explores a **Movies Database (moviesdb)** using **SQL** to uncover meaningful insights about films, actors, revenues, and ratings.  
 The dataset includes both **Hollywood and Bollywood** movies, with details like budgets, revenues, IMDB ratings, studios, and languages.  
 
